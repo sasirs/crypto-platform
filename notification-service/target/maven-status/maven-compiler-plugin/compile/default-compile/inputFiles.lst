@@ -1,0 +1,15 @@
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\config\KafkaConsumerConfig.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\config\WebSocketConfig.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\controller\UserSubscriptionController.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\model\AnalyticsEvent.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\model\ChannelType.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\model\Notification.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\model\UserSubscription.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\NotificationServiceApplication.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\repository\NotificationRepository.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\repository\UserSubscriptionRepository.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\services\EmailNotificationSender.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\services\NotificationService.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\services\SignalProcessor.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\services\WebSocketNotificationSender.java
+E:\Projects\crypto-platform\notification-service\src\main\java\com\crypto\notification\TestNotificationFlowRunner.java

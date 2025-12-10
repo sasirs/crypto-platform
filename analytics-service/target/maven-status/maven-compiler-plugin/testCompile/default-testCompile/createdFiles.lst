@@ -1,0 +1,6 @@
+com\crypto\analytics\engine\MACDEngineTest.class
+com\crypto\analytics\engine\VolatilityEngineTest.class
+com\crypto\analytics\engine\SMAEngineTest.class
+com\crypto\analytics\engine\RSIEngineTest.class
+com\crypto\analytics\engine\EMAEngineTest.class
+com\crypto\analytics\engine\SignalEngineTest.class

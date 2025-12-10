@@ -1,0 +1,6 @@
+com\crypto\pricefetcher\service\publisher\KafkaPricePublisherTest.class
+com\crypto\pricefetcher\service\PriceFetchServiceTest.class
+com\crypto\pricefetcher\service\normalizer\PriceNormalizerTest.class
+com\crypto\pricefetcher\service\provider\BinanceProviderTest.class
+com\crypto\pricefetcher\service\provider\CoinGeckoProviderTest.class
+com\crypto\pricefetcher\service\provider\KuCoinProviderTest.class

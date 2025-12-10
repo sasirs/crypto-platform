@@ -1,0 +1,6 @@
+E:\Projects\crypto-platform\price-fetcher-service\src\test\java\com\crypto\pricefetcher\service\normalizer\PriceNormalizerTest.java
+E:\Projects\crypto-platform\price-fetcher-service\src\test\java\com\crypto\pricefetcher\service\PriceFetchServiceTest.java
+E:\Projects\crypto-platform\price-fetcher-service\src\test\java\com\crypto\pricefetcher\service\provider\BinanceProviderTest.java
+E:\Projects\crypto-platform\price-fetcher-service\src\test\java\com\crypto\pricefetcher\service\provider\CoinGeckoProviderTest.java
+E:\Projects\crypto-platform\price-fetcher-service\src\test\java\com\crypto\pricefetcher\service\provider\KuCoinProviderTest.java
+E:\Projects\crypto-platform\price-fetcher-service\src\test\java\com\crypto\pricefetcher\service\publisher\KafkaPricePublisherTest.java

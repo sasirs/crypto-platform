@@ -1,0 +1,15 @@
+com\crypto\notification\services\NotificationService.class
+com\crypto\notification\services\EmailNotificationSender.class
+com\crypto\notification\model\UserSubscription.class
+com\crypto\notification\NotificationServiceApplication.class
+com\crypto\notification\repository\NotificationRepository.class
+com\crypto\notification\config\KafkaConsumerConfig.class
+com\crypto\notification\services\SignalProcessor.class
+com\crypto\notification\config\WebSocketConfig.class
+com\crypto\notification\services\WebSocketNotificationSender.class
+com\crypto\notification\repository\UserSubscriptionRepository.class
+com\crypto\notification\model\AnalyticsEvent.class
+com\crypto\notification\model\ChannelType.class
+com\crypto\notification\controller\UserSubscriptionController.class
+com\crypto\notification\model\Notification.class
+com\crypto\notification\model\AnalyticsEvent$AnalyticsEventBuilder.class
